@@ -8,23 +8,23 @@
 
 ---
 
-## 📖 About
+## About
 
 This repository documents my complete journey of learning **Modern C++** from scratch.
 
 Rather than simply following tutorials, I use this repository to:
 
-- 📚 Learn Modern C++
-- 🧠 Build strong problem-solving skills
-- ⚡ Master Data Structures & Algorithms
-- 💻 Prepare for Quant Engineering interviews
-- 🚀 Prepare for Software Engineering interviews
+- Learn Modern C++
+- Build strong problem-solving skills
+- Master Data Structures & Algorithms
+- Prepare for Quant Engineering interviews
+- Prepare for Software Engineering interviews
 
 Every chapter contains lecture code, my own practice, notes, and assignments.
 
 ---
 
-## 🎯 Course
+## Course
 
 - **Course:** Complete C++ Course (31 Hours)
 - **Instructor:** Frank Mitropoulos
@@ -32,7 +32,7 @@ Every chapter contains lecture code, my own practice, notes, and assignments.
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```text
 cpp_for_quant
@@ -63,7 +63,7 @@ cpp_for_quant
 
 ---
 
-## ✅ Progress
+## Progress
 
 | Chapter | Status |
 |----------|--------|
@@ -91,7 +91,7 @@ cpp_for_quant
 
 ---
 
-## 📌 Learning Workflow
+## Learning Workflow
 
 Each chapter generally contains:
 
@@ -106,7 +106,7 @@ Chapter_Name/
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - Modern C++ (C++17 / C++20)
 - GCC / MSVC
@@ -116,7 +116,7 @@ Chapter_Name/
 
 ---
 
-## 🎯 Goals
+## Goals
 
 - Learn Modern C++
 - Master STL
@@ -127,7 +127,7 @@ Chapter_Name/
 
 ---
 
-## 📅 Started
+## Started
 
 **July 2026**
 
@@ -135,4 +135,4 @@ This repository will continuously evolve as I learn new concepts, solve problems
 
 ---
 
-⭐ If you're also learning C++, feel free to explore the repository and follow along.
+If you're also learning C++, feel free to explore the repository and follow along.
