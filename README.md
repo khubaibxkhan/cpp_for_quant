@@ -105,7 +105,7 @@ cpp_for_quant
 
 ---
 
-### ⭐ Chapter 2 — Diving In
+### ⭐ Chapter 2 | Diving In
 
 **Score:** **9.2 / 10**
 
