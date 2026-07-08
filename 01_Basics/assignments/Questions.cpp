@@ -112,7 +112,7 @@ int main(){
     std::string college;
 
     std::cout << "Enter name : ";
-    std::cin >> name;
+    std::cin >> userName;
     std::cout << "Enter age : ";
     std::cin >> age;
     std::cout << "Enter college : ";
@@ -123,8 +123,6 @@ int main(){
     std::cout << "Age : " << age << std::endl;
     std::cout << "College: " << college << std::endl;
     std::cout << std::endl << "---------------------" << std::endl;
-
-
 
 
 
