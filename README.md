@@ -20,7 +20,7 @@ Rather than simply following tutorials, I use this repository to:
 - Prepare for Quant Engineering interviews
 - Prepare for Software Engineering interviews
 
-Every chapter contains lecture code, my own practice, notes, and assignments.
+Every chapter contains lecture code, my own practice, notes, assignments, and mentor reviews.
 
 ---
 
@@ -65,29 +65,69 @@ cpp_for_quant
 
 ## Progress
 
-| Chapter | Status |
-|----------|--------|
-| Setup | ⬜ |
-| Diving In | ⬜ |
-| Variables & Data Types | ⬜ |
-| Operations on Data | ⬜ |
-| Flow Control | ⬜ |
-| Loops | ⬜ |
-| Arrays | ⬜ |
-| Pointers | ⬜ |
-| References | ⬜ |
-| Strings | ⬜ |
-| Functions | ⬜ |
-| Returning from Functions | ⬜ |
-| Function Overloading | ⬜ |
-| Lambda Functions | ⬜ |
-| Function Templates | ⬜ |
-| C++20 Concepts | ⬜ |
-| Classes | ⬜ |
-| Inheritance | ⬜ |
-| Polymorphism | ⬜ |
+| Chapter | Status | Review |
+|----------|--------|--------|
+| Setup | 🟩 | ⭐ **10.0 / 10** |
+| Diving In | 🟩 | ⭐ **9.2 / 10** |
+| Variables & Data Types | 🟨 | Pending |
+| Operations on Data | ⬜ | - |
+| Flow Control | ⬜ | - |
+| Loops | ⬜ | - |
+| Arrays | ⬜ | - |
+| Pointers | ⬜ | - |
+| References | ⬜ | - |
+| Strings | ⬜ | - |
+| Functions | ⬜ | - |
+| Returning from Functions | ⬜ | - |
+| Function Overloading | ⬜ | - |
+| Lambda Functions | ⬜ | - |
+| Function Templates | ⬜ | - |
+| C++20 Concepts | ⬜ | - |
+| Classes | ⬜ | - |
+| Inheritance | ⬜ | - |
+| Polymorphism | ⬜ | - |
 
 > 🟩 Completed &nbsp;&nbsp; 🟨 In Progress &nbsp;&nbsp; ⬜ Not Started
+
+---
+
+## Chapter Reviews
+
+### ⭐ Setup
+
+**Score:** **10.0 / 10**
+
+**Review:**
+- Development environment configured successfully.
+- Compiler and VS Code setup completed correctly.
+- Build and execution workflow verified.
+- Ready to begin learning Modern C++.
+
+---
+
+### ⭐ Chapter 2 — Diving In
+
+**Score:** **9.2 / 10**
+
+#### Strengths
+
+- Excellent use of functions instead of placing all logic inside `main()`.
+- Clear and descriptive variable names.
+- Clean code formatting and readability.
+- Correct usage of `std::` instead of `using namespace std;`.
+- Good separation of logic across different problems.
+- Demonstrated good understanding of basic input/output and function decomposition.
+
+#### Areas for Improvement
+
+- Integer division affects the Quotient and Celsius-to-Fahrenheit conversion.
+- `std::getline()` will be preferred later for multi-word input.
+- Some helper functions can directly return expressions instead of storing them in temporary variables.
+- Swap without a third variable still needs to be implemented.
+
+#### Overall Feedback
+
+A very strong start for an introductory chapter. The code is clean, organized, and demonstrates good programming habits. The emphasis on functions, readability, and explicit namespace usage provides a solid foundation for upcoming topics such as pointers, memory management, and object-oriented programming.
 
 ---
 
@@ -95,7 +135,7 @@ cpp_for_quant
 
 Each chapter generally contains:
 
-```
+```text
 Chapter_Name/
 │
 ├── lecture.cpp
