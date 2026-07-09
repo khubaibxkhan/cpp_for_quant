@@ -69,7 +69,7 @@ cpp_for_quant
 |----------|--------|--------|
 | Setup | 🟩 | ⭐ **10.0 / 10** |
 | Diving In | 🟩 | ⭐ **9.2 / 10** |
-| Variables & Data Types | 🟩 | **9.5 / 10** |
+| Variables & Data Types | 🟩 | ⭐ **9.5 / 10** |
 | Operations on Data | 🟨 | Pending |
 | Flow Control | ⬜ | - |
 | Loops | ⬜ | - |
@@ -129,7 +129,7 @@ cpp_for_quant
 
 A very strong start for an introductory chapter. The code is clean, organized, and demonstrates good programming habits. The emphasis on functions, readability, and explicit namespace usage provides a solid foundation for upcoming topics such as pointers, memory management, and object-oriented programming.
 
-### ⭐ Chapter 3 — Variables & Data Types
+### ⭐ Chapter 3 | Variables & Data Types
 
 **Score:** ⭐ **9.5 / 10**
 
