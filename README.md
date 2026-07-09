@@ -105,7 +105,7 @@ cpp_for_quant
 
 ---
 
-### ⭐ Chapter 2 | Diving In
+### ⭐ Chapter 1 | Diving In
 
 **Score:** **9.2 / 10**
 
@@ -129,7 +129,7 @@ cpp_for_quant
 
 A very strong start for an introductory chapter. The code is clean, organized, and demonstrates good programming habits. The emphasis on functions, readability, and explicit namespace usage provides a solid foundation for upcoming topics such as pointers, memory management, and object-oriented programming.
 
-### ⭐ Chapter 3 | Variables & Data Types
+### ⭐ Chapter 2 | Variables & Data Types
 
 **Score:** ⭐ **9.5 / 10**
 
