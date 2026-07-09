@@ -69,8 +69,8 @@ cpp_for_quant
 |----------|--------|--------|
 | Setup | 🟩 | ⭐ **10.0 / 10** |
 | Diving In | 🟩 | ⭐ **9.2 / 10** |
-| Variables & Data Types | 🟨 | Pending |
-| Operations on Data | ⬜ | - |
+| Variables & Data Types | 🟩 | **9.5 / 10** |
+| Operations on Data | 🟨 | Pending |
 | Flow Control | ⬜ | - |
 | Loops | ⬜ | - |
 | Arrays | ⬜ | - |
@@ -128,6 +128,28 @@ cpp_for_quant
 #### Overall Feedback
 
 A very strong start for an introductory chapter. The code is clean, organized, and demonstrates good programming habits. The emphasis on functions, readability, and explicit namespace usage provides a solid foundation for upcoming topics such as pointers, memory management, and object-oriented programming.
+
+### ⭐ Chapter 3 — Variables & Data Types
+
+**Score:** ⭐ **9.5 / 10**
+
+#### Strengths
+
+- Strong understanding of C++ primitive data types.
+- Correct usage of uniform initialization (`{}`).
+- Used `static_cast` instead of C-style casting.
+- Demonstrated good understanding of ASCII conversions.
+- Used `std::getline()` correctly for full-name input.
+- Clean function decomposition and consistent formatting.
+- Proper use of `std::boolalpha` for boolean output.
+
+#### Areas for Improvement
+
+- The ASCII reverse question should accept an integer input instead of a character.
+
+#### Overall Feedback
+
+Excellent progress compared to the previous chapter. The code is becoming cleaner, more idiomatic, and better organized. The use of Modern C++ features such as uniform initialization, `static_cast`, and `std::getline()` demonstrates growing confidence with the language. The foundation for upcoming topics like operators, pointers, and memory management is now solid.
 
 ---
 
