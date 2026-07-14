@@ -71,7 +71,7 @@ cpp_for_quant
 | Diving In | 🟩 | ⭐ **9.2 / 10** |
 | Variables & Data Types | 🟩 | ⭐ **9.5 / 10** |
 | Operations on Data | 🟩 | ⭐ **9.7 / 10** |
-| Flow Control | 🟨 | Pending |
+| Flow Control | 🟩 | ⭐ **9.8 / 10** |
 | Loops | 🟨 | Pending |
 | Arrays | ⬜ | - |
 | Pointers | ⬜ | - |
@@ -129,6 +129,8 @@ cpp_for_quant
 
 A very strong start for an introductory chapter. The code is clean, organized, and demonstrates good programming habits. The emphasis on functions, readability, and explicit namespace usage provides a solid foundation for upcoming topics such as pointers, memory management, and object-oriented programming.
 
+---
+
 ### ⭐ Chapter 2 | Variables & Data Types
 
 **Score:** ⭐ **9.5 / 10**
@@ -150,6 +152,8 @@ A very strong start for an introductory chapter. The code is clean, organized, a
 #### Overall Feedback
 
 Excellent progress compared to the previous chapter. The code is becoming cleaner, more idiomatic, and better organized. The use of Modern C++ features such as uniform initialization, `static_cast`, and `std::getline()` demonstrates growing confidence with the language. The foundation for upcoming topics like operators, pointers, and memory management is now solid.
+
+---
 
 ### ⭐ Chapter 3 | Operations on Data
 
@@ -174,6 +178,31 @@ Excellent progress compared to the previous chapter. The code is becoming cleane
 #### Overall Feedback
 
 This chapter shows noticeable growth in coding maturity. Programs are becoming more modular, readable, and easier to maintain. The understanding of operators and expression evaluation is solid, providing an excellent foundation for conditional statements, loops, and future DSA problems.
+
+---
+
+### ⭐ Chapter 5 | Flow Control
+
+**Score:** ⭐ **9.8 / 10**
+
+#### Strengths
+
+- Strong understanding of conditional programming using `if`, `else if`, `switch`, and the ternary operator.
+- Excellent use of functions to organize logic.
+- Clean and readable code with meaningful variable and function names.
+- Successfully implemented practical programs such as ATM menu, calculator, grade generator, and leap year checker.
+- Demonstrates good logical thinking and consistent coding style.
+
+#### Areas for Improvement
+
+- Validate user input (e.g., marks outside 0–100, division by zero, insufficient account balance).
+- Handle all edge cases when classifying characters and comparing values.
+- Continue improving program robustness by considering unexpected inputs.
+
+#### Overall Feedback
+
+This chapter reflects a clear improvement in programming maturity. Code is modular, readable, and well-structured. Conditional logic is now becoming second nature, providing a strong foundation for loops, arrays, and more advanced algorithmic problem solving.
+
 ---
 
 ## Learning Workflow
