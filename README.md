@@ -70,9 +70,9 @@ cpp_for_quant
 | Setup | 🟩 | ⭐ **10.0 / 10** |
 | Diving In | 🟩 | ⭐ **9.2 / 10** |
 | Variables & Data Types | 🟩 | ⭐ **9.5 / 10** |
-| Operations on Data | 🟨 | Pending |
-| Flow Control | ⬜ | - |
-| Loops | ⬜ | - |
+| Operations on Data | 🟩 | ⭐ **9.7 / 10** |
+| Flow Control | 🟨 | Pending |
+| Loops | 🟨 | Pending |
 | Arrays | ⬜ | - |
 | Pointers | ⬜ | - |
 | References | ⬜ | - |
@@ -151,6 +151,29 @@ A very strong start for an introductory chapter. The code is clean, organized, a
 
 Excellent progress compared to the previous chapter. The code is becoming cleaner, more idiomatic, and better organized. The use of Modern C++ features such as uniform initialization, `static_cast`, and `std::getline()` demonstrates growing confidence with the language. The foundation for upcoming topics like operators, pointers, and memory management is now solid.
 
+### ⭐ Chapter 3 | Operations on Data
+
+**Score:** ⭐ **9.7 / 10**
+
+#### Strengths
+
+- Excellent understanding of arithmetic, relational, and logical operators.
+- Clean function decomposition for calculator operations.
+- Correct reasoning about operator precedence and associativity.
+- Good use of `<limits>` and `<cmath>`.
+- Consistent code formatting and descriptive variable names.
+- Strong improvement in problem-solving approach.
+
+#### Areas for Improvement
+
+- Remember that integer division truncates before returning a `double`.
+- Handle edge cases such as division by zero.
+- Use `std::fixed` with `std::setprecision()` for formatted floating-point output.
+- Continue improving interactive program design (e.g., menu-driven calculators).
+
+#### Overall Feedback
+
+This chapter shows noticeable growth in coding maturity. Programs are becoming more modular, readable, and easier to maintain. The understanding of operators and expression evaluation is solid, providing an excellent foundation for conditional statements, loops, and future DSA problems.
 ---
 
 ## Learning Workflow
@@ -161,9 +184,8 @@ Each chapter generally contains:
 Chapter_Name/
 │
 ├── lecture.cpp
-├── practice.cpp
-├── assignments/
-└── notes.md
+├── practice/
+└── assignments/
 ```
 
 ---
