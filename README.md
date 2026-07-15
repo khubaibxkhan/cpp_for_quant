@@ -72,8 +72,8 @@ cpp_for_quant
 | Variables & Data Types | 🟩 | ⭐ **9.5 / 10** |
 | Operations on Data | 🟩 | ⭐ **9.7 / 10** |
 | Flow Control | 🟩 | ⭐ **9.8 / 10** |
-| Loops | 🟨 | Pending |
-| Arrays | ⬜ | - |
+| Loops | 🟩 | ⭐ **9.8 / 10** |
+| Arrays | 🟨 | Pending |
 | Pointers | ⬜ | - |
 | References | ⬜ | - |
 | Strings | ⬜ | - |
@@ -181,7 +181,7 @@ This chapter shows noticeable growth in coding maturity. Programs are becoming m
 
 ---
 
-### ⭐ Chapter 5 | Flow Control
+### ⭐ Chapter 4 | Flow Control
 
 **Score:** ⭐ **9.8 / 10**
 
@@ -202,6 +202,30 @@ This chapter shows noticeable growth in coding maturity. Programs are becoming m
 #### Overall Feedback
 
 This chapter reflects a clear improvement in programming maturity. Code is modular, readable, and well-structured. Conditional logic is now becoming second nature, providing a strong foundation for loops, arrays, and more advanced algorithmic problem solving.
+
+---
+
+### ⭐ Chapter 5 | Loops
+
+**Score:** ⭐ **9.8 / 10**
+
+#### Strengths
+
+- Strong understanding of `for`, `while`, and `do-while` loops.
+- Correct selection of loop types based on the problem.
+- Well-structured solutions with clean formatting and modular functions.
+- Successfully implemented practical programs including ATM, Fibonacci series, prime checker, and number manipulation problems.
+- Demonstrates improved problem-solving ability and attention to program structure.
+
+#### Areas for Improvement
+
+- Be cautious when using `size_t` in decrementing loops.
+- Consider edge cases such as `0`, `1`, and invalid inputs.
+- Continue practicing input validation and overflow awareness.
+
+#### Overall Feedback
+
+This chapter demonstrates a significant improvement in logical thinking. Loop selection feels natural, programs are modular, and code readability continues to improve. The foundation for arrays, STL containers, and algorithmic programming is now very solid.
 
 ---
 
