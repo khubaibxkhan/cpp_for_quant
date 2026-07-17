@@ -33,6 +33,9 @@
 
 //WRITING DATA  THROUGH LOOP
 /*
+for(size_t i{}; i<10 , i++){
+        std::cin << scores [i];
+    }
 
 */
 
