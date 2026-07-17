@@ -73,8 +73,8 @@ cpp_for_quant
 | Operations on Data | 🟩 | ⭐ **9.7 / 10** |
 | Flow Control | 🟩 | ⭐ **9.8 / 10** |
 | Loops | 🟩 | ⭐ **9.8 / 10** |
-| Arrays | 🟨 | Pending |
-| Pointers | ⬜ | - |
+| Arrays | 🟩 | ⭐ **9.7 / 10** |
+| Pointers | 🟨 | Pending |
 | References | ⬜ | - |
 | Strings | ⬜ | - |
 | Functions | ⬜ | - |
@@ -226,6 +226,31 @@ This chapter reflects a clear improvement in programming maturity. Code is modul
 #### Overall Feedback
 
 This chapter demonstrates a significant improvement in logical thinking. Loop selection feels natural, programs are modular, and code readability continues to improve. The foundation for arrays, STL containers, and algorithmic programming is now very solid.
+
+---
+
+### ⭐ Chapter 6 | Arrays
+
+**Score:** ⭐ **9.7 / 10**
+
+#### Strengths
+
+- Strong understanding of array declaration, traversal, and indexing.
+- Successfully implemented searching, reversing, rotation, statistics, and array manipulation problems.
+- Comfortable using loops with arrays and writing clean, readable code.
+- Demonstrates good logical thinking by combining multiple operations into single traversals where appropriate.
+- Shows willingness to tackle more challenging array problems beyond the lecture content.
+
+#### Areas for Improvement
+
+- Avoid Variable Length Arrays (`int array[n]`) in standard C++.
+- Continue practicing nested-loop problems such as frequency counting and duplicate handling.
+- Develop habit of considering time complexity while solving array problems.
+- Explore in-place algorithms instead of relying on additional arrays when possible.
+
+#### Overall Feedback
+
+This chapter marks an important milestone. Arrays are the first real data structure in C++, and you've built a solid foundation. While some advanced problems required guidance, your understanding of indexing, traversal, searching, and basic manipulation is strong. You're ready to move on to pointers, where arrays will become even more meaningful.
 
 ---
 
